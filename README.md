@@ -10,3 +10,5 @@ Fiksētas neatbilstības un problēmas
 Uz darbu tika patērētas 45 stundas 3 minūtes.
 
 Links uz clickup izveidoto aktivitāti - https://app.clickup.com/t/340ak61
+
+Links uz GitHub Pages - https://romans-sardakovs.github.io/Test_Task_Romans_Sardakovs/
